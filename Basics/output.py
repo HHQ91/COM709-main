@@ -1,0 +1,1 @@
+print('Created a simple program to display a greeting.')

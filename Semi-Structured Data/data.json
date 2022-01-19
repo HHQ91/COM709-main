@@ -1,0 +1,14 @@
+{
+  "university": "Solent University",
+  "lectures":
+  [
+  {
+    "id": 1,
+    "name": "Prins Butt"
+  },
+  {
+    "id": 2,
+    "name": "Darren Cunningham"
+  }
+  ]
+}
